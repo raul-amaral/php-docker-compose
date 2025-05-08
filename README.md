@@ -7,7 +7,7 @@ Ita-boot bele asesu Adminer iha http://localhost:8080.
 atu asesu ba programa php
 http://localhost:80/
 
-login ba adminer
+login ba adminer <br>
 server = db
 user= myuser
 pass = mypassword
