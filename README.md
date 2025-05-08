@@ -18,5 +18,5 @@ user = root <br>
 password = root <br>
 db = (husik mamuk) <br>
 
-atu halo down docker <br>
+kona ba down docker <br>
 docker-compose down --volume
