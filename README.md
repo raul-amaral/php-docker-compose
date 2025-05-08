@@ -8,15 +8,15 @@ atu asesu ba programa php
 http://localhost:80/
 
 login ba adminer <br>
-server = db
-user= myuser
-pass = mypassword
-db = mydb
+server = db <br>
+user= myuser <br>
+pass = mypassword <br>
+db = mydb <br>
 
-server = db
-user = root
-password = root
-db = (husik mamuk)
+server = db <br>
+user = root <br>
+password = root <br>
+db = (husik mamuk) <br>
 
-atu halo down docker
+atu halo down docker <br>
 docker-compose down --volume
