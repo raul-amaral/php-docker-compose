@@ -1,3 +1,5 @@
+# Oinsa atu utiliza
+
 Asegura katak ita-boot iha aplikasaun no pasta mysql iha diretóriu hanesan ho docker-compose.yml. Pasta app nian kontein ita-boot nia arkivu PHP sira, enkuantu pasta mysql kontein ita-boot nia dadus MariaDB nian.
 Ita-boot bele hala'o docker-compose up -d hodi hahú servisu.
 Ita-boot bele asesu Adminer iha http://localhost:8080.
