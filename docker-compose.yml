@@ -1,4 +1,4 @@
-version: '3.9'
+version: "3.9"
 services:
   web:
     image: php:8.2-apache
@@ -13,9 +13,9 @@ services:
     image: mariadb
     container_name: mariadb
     environment:
-      MYSQL_ROOT_PASSWORD: raul
-      MYSQL_DATABASE: rauldb
-      MYSQL_USER: rauluser
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: mydb
+      MYSQL_USER: haumakuzador
       MYSQL_PASSWORD: hauniapassword
     volumes:
       - /DATA/mysql:/var/lib/mysql
