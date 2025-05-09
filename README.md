@@ -7,7 +7,8 @@ Ita-boot bele asesu Adminer iha http://localhost:8080.
 atu asesu ba programa php
 http://localhost:80/
 
-login ba adminer <br>
+### login ba adminer <br>
+
 server = db <br>
 user= myuser <br>
 pass = mypassword <br>
@@ -18,5 +19,6 @@ user = root <br>
 password = root <br>
 db = (husik mamuk) <br>
 
-kona ba down docker <br>
+### kona ba down docker <br>
+
 docker-compose down --volume
